@@ -12,9 +12,9 @@ pip install -r requirements.txt
 
 
 # Telegram API:
-    Go to my.telegram.org and log in with your phone number.
-    Click on "API development tools" and create a new application.
-    Note down your API_ID and API_HASH 
+Go to my.telegram.org and log in with your phone number.
+Click on "API development tools" and create a new application.
+Note down your API_ID and API_HASH 
 
 Create .env file:
     Add your API credentials to this file in the following format:
